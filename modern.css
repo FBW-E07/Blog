@@ -1,0 +1,62 @@
+body {
+    background-color: white;
+}
+
+
+.h1mm {
+    color: orange;
+    text-align: center;
+    font-size: 5em;
+}
+
+.h1mm:hover {
+    color: red;
+}
+
+.header {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.favh2 {
+    color: orange;
+    text-align: center;
+}
+
+.vol1 {
+  float: left;
+    width: 220px;
+    height: 220px;
+    margin: 0 15px 0 0;
+    border-radius: 50%;
+    border: 5px solid;
+    border-color: orange;
+}
+
+.aot2 img {
+    float: left;
+    width: 220px;
+  height: 220px;
+     border-radius: 50%;
+    border: 5px solid;
+    border-color: red;
+    margin: 0 15px 0 0
+}
+
+
+.rank1 h3 {
+    color: red;
+}
+
+.rank1 h3:hover{
+    color: orange;
+}
+
+.rank1 {
+    color: red;
+}
+
+.aot2 {
+    color: blue;
+}
