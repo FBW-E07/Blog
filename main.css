@@ -1,0 +1,51 @@
+body{
+    background-color: #e3d9c0;
+
+}
+
+.flex-container
+{
+    display: flex;
+
+}
+hr
+{
+    border: 2px solid black;}
+
+.headernew img
+{
+    width: 50vw;
+    margin-top: 10px;
+}
+
+
+.column
+{
+    flex: 50%;
+    margin: -12px  0px 0px 10px ;
+
+
+}
+
+.menu a
+{
+text-transform: uppercase;
+font-weight: bold;
+text-decoration: none;
+color: black;
+
+}
+
+.footer a
+{
+text-transform: uppercase;
+font-weight: bold;
+text-decoration: none;
+color: black;
+
+}
+
+footer
+{
+    direction: rtl;
+}
